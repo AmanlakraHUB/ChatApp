@@ -1,5 +1,11 @@
 # Update
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
+// To run this app locally follow the steps below:-
 
-[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
+//1. Create a firebase project
+
+//2. Setup firestore database and enable E-mail authentication.
+
+//3. Select the firebase initialization code and paste it in firebase.js file.
+
+//4. Run npm start.
